@@ -190,12 +190,13 @@ Significa: esperabas 200 pero obtuviste 404. Eso te dice exactamente qué endpoi
 ## 👩‍💻 Autora
 
 *Jenifer Gonzalez*
+
 Data Science | QA Engineer | Scrum Master  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jenifer-paola-gonzalez-peñuela)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Jenifer-Gonzalez-DS-QA/)
 
 -----
 
 > 💡 *Este proyecto es parte de un portafolio de 3 proyectos de automatización QA.
-> Ver también: [QA Dashboard](https://github.com/) y [QA CI/CD Pipeline](https://github.com/)*
+> Ver también: [QA Dashboard](https://github.com/Jenifer-Gonzalez-DS-QA/qa-dashboard) y [QA CI/CD Pipeline](https://github.com/Jenifer-Gonzalez-DS-QA/qa-cicd-pipeline)*
