@@ -69,7 +69,7 @@ api-testing-framework/
 
 bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU-USUARIO/api-testing-framework.git
+git clone https://github.com/Jenifer-Gonzalez-DS-QA/api-testing-framework.git
 cd api-testing-framework
 
 # 2. Crear entorno virtual
