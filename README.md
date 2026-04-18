@@ -67,7 +67,6 @@ api-testing-framework/
 
 ## ⚙️ Instalación
 
-bash
 # 1. Clonar el repositorio
 git clone https://github.com/Jenifer-Gonzalez-DS-QA/api-testing-framework.git
 cd api-testing-framework
@@ -88,7 +87,6 @@ pip install -r requirements.txt
 
 ## ▶️ Cómo Ejecutar las Pruebas
 
-bash
 # Toda la suite
 pytest
 
